@@ -12,16 +12,15 @@ What things you need:
 [Node.js](https://nodejs.org/)
 ```
 
-#### Icon
-Replace icon.png (1024x1024) with your icon
-
-#### CLI
-
-##### Yarn
+#### Yarn
 
 ```
 npm i -g yarn
 ```
+
+#### Icon
+
+Replace icon.png (1024x1024) with your icon
 
 ### How to Run
 
