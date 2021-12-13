@@ -1,0 +1,12 @@
+{
+  "name": "app-icon-generator",
+  "version": "1.0.0",
+  "description": "App icon generator for Android and iOS",
+  "keywords": ["App icon generator"],
+  "author": "Lemonilo",
+  "license": "ISC",
+  "dependencies": {
+    "extract-zip": "^2.0.1",
+    "puppeteer": "^9.0.0"
+  }
+}
